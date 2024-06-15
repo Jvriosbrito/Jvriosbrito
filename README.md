@@ -52,9 +52,9 @@ Welcome to my GitHub profile! I'm João Victor, a technology enthusiast with a p
 ## 🚀 Projects
 Here are some of the projects I've been working on:
 
-- **Project 1**: 2Gater: A site for organizing parties
-- **Project 2**: I developed an incident reporting website for CEUB  
-- **Project 3**: I created a 3D museum using C language and OpenGL with the help of Guilherme GHZ
+- **Project 1**:
+- **Project 2**: 
+- **Project 3**: 
 
 <!--
 ## 🔗 Useful Links
