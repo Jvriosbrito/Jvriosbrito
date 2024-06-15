@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm João Victor, a technology enthusiast with a p
 
 ## 🌐 Connect with me
 <div> 
-  <a href="https://www.linkedin.com/in/arthur-arash-briceno-heidari/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-rios-brito-e-nascimento-999167314/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <!--
   https://dev.to/envoy_/150-badges-for-github-pnk
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
