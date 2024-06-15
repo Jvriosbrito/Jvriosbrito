@@ -2,7 +2,7 @@
 ---
 
 <div style="float: left; width: 20%; margin-right: 10px;">
-  <img width="15%" src="https://media.discordapp.net/attachments/1232832846633242637/1248445343972986940/ezgif.com-animated-gif-maker_1.gif?ex=6663b0d4&is=66625f54&hm=f288283c64c935a5583b68f87886c7ad0882ea997f97d8ef430706d1058c4bd7&=" target="_blank">
+  <img width="15%" src="https://github.com/Jvriosbrito/Jvriosbrito/assets/172122553/d46b1b85-22b3-4da4-bb36-c9a000e51efa"></img>
   <!-- 
   https://picrew.me/en/image_maker/338224#google_vignette
   gift maker 
@@ -10,13 +10,13 @@
   -->
 </div>
 
-# Hi guys, my name is Arthur Arash and I like technology and programming, but I don't like to code, lol!👨🏽‍💻
+# Hi guys, my name is João Victor and I like technology and programming
 <!-- 
 icon 
 https://emojipedia.org/pt/castor
 -->
 
-Welcome to my GitHub profile! I'm Arthur Arash, a technology enthusiast with a passion for programming. Although I don't particularly enjoy coding, I love exploring new technologies and creating cool projects.
+Welcome to my GitHub profile! I'm João Victor, a technology enthusiast with a passion for programming. I love exploring new technologies and creating cool projects.
 
 ## 🛠️ Skills & Tools
 <div style="display: inline_block"><br>
@@ -45,10 +45,10 @@ Welcome to my GitHub profile! I'm Arthur Arash, a technology enthusiast with a p
 </div>
 
 ## 📊 GitHub Stats
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurbric&show_icons=true&theme=radical)
+![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jvriosbrito&show_icons=true&theme=radical)
 
 ## 📈 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurbric&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jvriosbrito&layout=compact&theme=radical)
 
 <!-- ## 📝 Latest Blog Posts -->
 <!-- BLOG-POST-LIST:START -->
