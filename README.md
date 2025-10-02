@@ -1,14 +1,6 @@
 
 ---
 
-<div style="float: left; width: 20%; margin-right: 10px;">
-  <img width="15%" src="https://github.com/Jvriosbrito/Jvriosbrito/assets/172122553/d46b1b85-22b3-4da4-bb36-c9a000e51efa"></img>
-  <!-- 
-  https://picrew.me/en/image_maker/338224#google_vignette
-  gift maker 
-  https://ezgif.com/maker
-  -->
-</div>
 
 # Hi guys, my name is João Victor and I like technology and programming
 <!-- 
