@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm João Victor, a technology enthusiast with a p
 <div style="display: inline_block"><br>
  
   <img align="center" alt="C" height="40" width="50" src="https://icongr.am/devicon/c-original.svg?size=148&color=7c0594">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="GIThub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="GIThub" height="40" width="50" src="https://icongr.am/devicon/github-original-wordmark.svg?size=148&color=a6ff00">
   <img align="center" alt="git" height="40" width="50" src="https://icongr.am/devicon/git-original.svg?size=148&color=2e6dff">
   
