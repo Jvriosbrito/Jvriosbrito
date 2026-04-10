@@ -30,12 +30,7 @@ Welcome to my GitHub profile! I'm João Victor, a technology enthusiast with a p
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   -->
 </div>
-
-## 📊 GitHub Stats
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jvriosbrito&show_icons=true&theme=radical)
-
 ## 📈 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jvriosbrito&layout=compact&theme=radical)
 
 <!-- ## 📝 Latest Blog Posts -->
 <!-- BLOG-POST-LIST:START -->
